@@ -8,15 +8,15 @@ export const INITIAL_USERS = [
   {
     id: '1',
     username: 'admin',
-    password: 'admin123',
+    password: 'pro12345',
     isAdmin: true,
     active: true,
     expirationDate: '2099-12-31'
   },
   {
     id: '2',
-    username: 'user',
-    password: 'user123',
+    username: 'wex',
+    password: 'wex12349',
     isAdmin: false,
     active: true,
     expirationDate: '2025-12-31'

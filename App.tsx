@@ -278,11 +278,6 @@ export default function App() {
             )}
 
             <Button type="submit" className="w-full mt-4">ENTER</Button>
-            
-            <div className="text-xs text-center text-slate-500 mt-4">
-              Demo Access: user / user123<br/>
-              Admin Access: admin / admin123
-            </div>
           </form>
         </div>
       </div>
